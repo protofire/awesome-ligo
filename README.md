@@ -11,6 +11,7 @@ A curated list of awesome [Ligo](https://ligolang.org/) resources, libraries, to
     - [Security](#security)
     - [Examples](#examples)
     - [Books](#books)
+    - [Public Rpc Nodes](#public-rpc-nodes)
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
@@ -47,6 +48,10 @@ TODO
 
 #### Books
 TODO
+
+#### Public Rpc Nodes
+- [Taquito Carthagenet](https://api.tez.ie/rpc/carthagenet)
+- [Smartpy Carthagenet](http://carthagenet.smartpy.io/)
 
 
 ## Libraries
