@@ -52,6 +52,7 @@ TODO
 #### Public Rpc Nodes
 - [Taquito Carthagenet](https://api.tez.ie/rpc/carthagenet)
 - [Smartpy Carthagenet](http://carthagenet.smartpy.io/)
+- [TzBeta Carthagenet](https://rpctest.tzbeta.net)
 
 
 ## Libraries
