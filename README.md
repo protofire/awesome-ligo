@@ -35,6 +35,7 @@ A curated list of awesome [Ligo](https://ligolang.org/) resources, libraries, to
 - [Taco shop smart contract](https://ligolang.org/docs/tutorials/get-started/tezos-taco-shop-smart-contract/) - Taco shop smart contract
 - [Beginner's Guide](https://www.youtube.com/watch?v=Ozf250c52AI) - Beginner's Guide to Tezos Smart Contracts with LIGO
 - [Introduction](https://www.youtube.com/watch?v=GZe_zfNYjlA&t=1230s) - Introduction to Tezos smart-contract development using LIGO
+- [Truffle suite workshop](https://www.youtube.com/watch?v=Oo6gz6dxY3k&list=PLZYHxOo6wufh2XacXH2YyeSecR3qMk0lH&index=3&t=0s) - Developer workshop covering the suite of Tezos tools built by Truffle
 
 #### Cheatsheet
 - [Cheat sheet](https://ligolang.org/docs/api/cheat-sheet) - A ligo cheat sheet
