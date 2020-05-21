@@ -50,9 +50,14 @@ TODO
 TODO
 
 #### Public Rpc Nodes
+#### Mainnet
+- [Smartpy Mainnet](https://mainnet.smartpy.io/)
+- [Giganode](https://mainnet-tezos.giganode.io)
+#### Carthagenet
 - [Taquito Carthagenet](https://api.tez.ie/rpc/carthagenet)
+- [TzBeta](https://rpctest.tzbeta.net)
 - [Smartpy Carthagenet](http://carthagenet.smartpy.io/)
-- [TzBeta Carthagenet](https://rpctest.tzbeta.net)
+- [Giganode](https://testnet-tezos.giganode.io/)
 
 
 ## Libraries
